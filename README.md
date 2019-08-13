@@ -29,7 +29,7 @@ Otra de las ventajas de este desarrollo es su compatibilidad en configuración e
 
 1. Clona este repositorio en tu entorno de desarrollo, simplemente puedes ejecutar en terminal:
 ```console
-foo@bar:~$ git clone https://github.com/AndrewAlva/Jungle_Beige.git
+foo@bar:~$ git clone https://github.com/AndrewAlva/templateTask.git
 ```
 
 2. Cambia de ubicación al folder del proyecto, después, instala las dependencias necesarios por medio de npm:
