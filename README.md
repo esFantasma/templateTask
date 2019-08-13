@@ -1,4 +1,4 @@
-# Jungle Beige
+# Template Task
 ## Frontend Repo
 Boilerplate hecho en Gulp para crear páginas estáticas desde 0 con preprocesadores como Pug, SCSS y Babel.
 
